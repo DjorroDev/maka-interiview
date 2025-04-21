@@ -18,7 +18,7 @@ class UserController extends Controller
     {       
         $filters = $request->only(['name', 'address']);
 
-        // Note: no filter for sort only from latest update/create
+        // Note: no filter for sorting, only using 'latest' update/create
 
         $users = User::latest()->Filter($filters)->get();
 
