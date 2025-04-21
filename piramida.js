@@ -1,4 +1,4 @@
-const length = 1;
+const length = 5;
 
 function reversePyramid(n) {
   for (let i = n; i >= 1; i--) {
