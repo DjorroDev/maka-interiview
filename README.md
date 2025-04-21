@@ -1,5 +1,5 @@
-Halo untuk soal ketiga nya yaitu laravel nya bisa migrate dan factory nya
+Halo MAKA,
 
-`php artisan migrate:fresh --seed`
+Terima kasih dalam kesempatannya mengikuti teknikal tes ini. Mohon maaf juga atas kekurangannya karena saya sangat berusaha sekali untuk tidak nervous selama interview.
 
-untuk generate dummy dan migration database
+Berikut ketiga soal nya pada setiap branches.
